@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhagya Subhashini  
+# 👋 Hi, I'm Bhagya Subhashini Wijenayaka
 
 🎓 **3rd Year BICT Undergraduate** | 💻 **Full Stack Developer (MERN + MySQL)**  
 📍 Faculty of Technology, University of Colombo  
