@@ -1,53 +1,95 @@
-# 👋 Hi, I'm Bhagya Subhashini Wijenayaka
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6A5ACD&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;BICT+Undergraduate;Tech+Enthusiast" />
+</p>
 
-🎓 **3rd Year BICT Undergraduate** | 💻 **Full Stack Developer (MERN + MySQL)**  
-📍 Faculty of Technology, University of Colombo  
+<h1 align="center">Hi, I'm <strong>Bhagya Subhashini Wijenayaka</strong> 👋</h1>
 
----
-
-### 🌟 About Me  
-
-I'm a passionate and detail-oriented **Full Stack Developer** who loves building responsive and efficient web applications.  
-I enjoy turning ideas into functional solutions using modern technologies like **React**, **Node.js**, **Express.js**, and **MySQL/MongoDB**.  
-
-Currently, I’m seeking a **Software Development Internship** where I can apply my technical skills, collaborate with professionals, and grow as a developer.  
+<p align="center">
+  3rd Year BICT Undergraduate • Full Stack Developer (MERN)<br/>
+  Passionate about building scalable, user-focused, and modern web applications.
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🖤 About Me
 
-**Frontend:** React.js | HTML5 | CSS3 | JavaScript (ES6)  
-**Backend:** Node.js | Express.js  
-**Database:** MySQL | MongoDB  
-**Tools & Others:** Git | GitHub | VS Code | Figma | MySQL Workbench | Material UI  
-
----
-
-### 🚀 Featured Projects  
-
-- 🧩 [Internship Management System (MERN with MySQL)](https://github.com/BhagyaSubhashini/internship-management-system)  
-  *A web-based system for managing internship data and improving collaboration between students and faculty.*  
-
-- ☀️ [Solar Energy Dashboard (MERN with MongoDB)](https://github.com/BhagyaSubhashini/solar-energy-dashboard)  
-  *An interactive dashboard that visualizes real-time solar power generation, usage analytics, and performance reports using modern web technologies.*  
-
-- 🏨 [Hotel Ocean Trails Website](https://github.com/BhagyaSubhashini/hotel-ocean-trails)  
-  *A modern, responsive hotel website built using HTML, CSS, and JavaScript.* 
----
-
-### 📈 GitHub Stats  
-
-![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhagyaSubhashini&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaSubhashini&layout=compact&theme=tokyonight)
+- 🔍 Exploring full-stack development and modern web technologies  
+- 💻 Building real-world apps using **React, Node.js, Express, MySQL & MongoDB**  
+- 🌱 Currently learning **Next.js, Cloud Deployment & Advanced UI/UX**  
+- 🎯 Actively seeking a **Fullstack Development Internship**  
+- ✨ Passionate about clean code, good architecture & problem-solving  
 
 ---
 
-### 🌐 Connect With Me  
+## ⚙️ Tech Stack
 
-[💼 LinkedIn](https://www.linkedin.com/in/bhagya-wijenayaka-a88a88395)  
-📧 **Email:** [bhagyawijenayaka4@gmail.com](mailto:bhagyawijenayaka4@gmail.com)  
-🌍 **GitHub:** [github.com/BhagyaSubhashini](https://github.com/BhagyaSubhashini)  
+### 🖥️ Frontend
+- React.js  
+- JavaScript (ES6)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Material UI
+
+### 🗂 Backend
+- Node.js  
+- Express.js  
+
+### 🛢 Database
+- MySQL  
+- MongoDB  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Figma  
+- MySQL Workbench  
+- Firebase  
+- Vercel  
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”*  
+## 🚀 Featured Projects
+
+### 🧩 **Internship Management System — MERN + MySQL**  
+A platform for managing internship data and improving communication between students & faculty.  
+🔗 https://github.com/BhagyaSubhashini/internship-management-system  
+
+### ☀️ **Solar Energy Dashboard — MERN + MongoDB**  
+Interactive dashboard for real-time solar power analytics and performance visualization.  
+🔗 https://github.com/BhagyaSubhashini/solar-energy-dashboard  
+
+### 🏨 **Hotel Ocean Trails Website**  
+A modern, responsive hotel website built using HTML, CSS, and JavaScript.  
+🔗 https://github.com/BhagyaSubhashini/hotel-ocean-trails  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhagyaSubhashini&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaSubhashini&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhagyaSubhashini/BhagyaSubhashini/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/bhagya-wijenayaka-a88a88395 <br/>
+  <strong>Email:</strong> <a href="mailto:bhagyawijenayaka4@gmail.com">bhagyawijenayaka4@gmail.com</a> <br/>
+  <strong>GitHub:</strong> https://github.com/BhagyaSubhashini
+</p>
+
+---
+
+<p align="center"><i>“Code. Learn. Build. Repeat.”</i></p>
