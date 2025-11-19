@@ -1,6 +1,8 @@
-<!-- Typing Animation -->
+<!-- Typing Animation (Larger & Centered) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6A5ACD&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;BICT+Undergraduate;Tech+Enthusiast" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;BICT+Undergraduate;Tech+Enthusiast" 
+  />
 </p>
 
 <h1 align="center">Hi, I'm <strong>Bhagya Subhashini Wijenayaka</strong> 👋</h1>
@@ -22,30 +24,27 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
 ### 🖥️ Frontend
-- React.js  
-- JavaScript (ES6)  
-- HTML5, CSS3  
-- Tailwind CSS  
-- Material UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,materialui" />
+</p>
 
 ### 🗂 Backend
-- Node.js  
-- Express.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🛢 Database
-- MySQL  
-- MongoDB  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma  
-- MySQL Workbench  
-- Firebase  
-- Vercel  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel" />
+</p>
 
 ---
 
@@ -70,14 +69,6 @@ A modern, responsive hotel website built using HTML, CSS, and JavaScript.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhagyaSubhashini&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaSubhashini&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BhagyaSubhashini/BhagyaSubhashini/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
