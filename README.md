@@ -78,7 +78,8 @@ A modern, responsive hotel website built using HTML, CSS, and JavaScript.
 <p align="left">
   <strong>LinkedIn:</strong> https://www.linkedin.com/in/bhagya-wijenayaka-a88a88395 <br/>
   <strong>Email:</strong> <a href="mailto:bhagyawijenayaka4@gmail.com">bhagyawijenayaka4@gmail.com</a> <br/>
-  <strong>GitHub:</strong> https://github.com/BhagyaSubhashini
+  <strong>GitHub:</strong> https://github.com/BhagyaSubhashini <br/>
+  <strong>Portfolio:</strong> https://my-personal-portfolio-drjl.vercel.app
 </p>
 
 ---
